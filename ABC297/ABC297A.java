@@ -7,7 +7,6 @@ public class ABC297A {
             int d = Integer.parseInt(sc.next());
             int[] t = new int[n];
             int ans = -1;
-
             for(int i = 0; i < n; i++){
                 t[i] = Integer.parseInt(sc.next());
             }
